@@ -2,7 +2,7 @@
     margin: 10px;
     width: 200px;
     height: 200px;
-    border: 3px solid rgba(232, 232, 232, 0.8);
+    border: 3px solid rgba(139, 74, 134, 0.8);
     box-shadow: 1px 1px 4px 0px rgba(0, 0, 0, 0.75) inset;
     -moz-box-shadow: 1px 1px 4px 0px rgba(0, 0, 0, 0.75) inset;
     -webkit-box-shadow: 1px 1px 4px 0px rgba(0, 0, 0, 0.75) inset;
@@ -10,7 +10,7 @@
 
 .infoGrid .name {
     text-align: center;
-    color: white
+    color: rgb(39, 20, 4)
 }
 
 .infoGrid .position {
@@ -53,6 +53,6 @@
 }
 
 .infoList .infoIcon {
-    color: #3f51b5;
-    background-color: white;
+    color: #b53f98;
+    background-color: rgb(121, 139, 158);
 }

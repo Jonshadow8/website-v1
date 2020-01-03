@@ -32,7 +32,7 @@ class InfoCard extends Component {
             <div>
                 <Grid container className={styles.infoGrid} justify="center" alignItems="center">
                     <Grid item>
-                        <Avatar alt={profile.Name} className={styles.bigAvatar} src={require("../../img/self.jpeg")} />
+                        <Avatar alt={profile.Name} className={styles.bigAvatar} src={require("../../img/mememe.JPG")} />
                     </Grid>
                     <Grid item xs={12}>
                         <Typography variant="h3" className="name">
